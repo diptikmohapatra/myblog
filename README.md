@@ -17,7 +17,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32"> 
   <h1><b>MY BLOG</b></h1>
-  <p>Welcome to the blog of <span class="w3-tag">unknown</span></p>
+  <p>Welcome to the blog of <span class="w3-tag">Diptik Mohapatra</span></p>
 </header>
 
 <!-- Grid -->
@@ -78,7 +78,7 @@ and is wrapped around the whole page content, except for the footer in this exam
   <div class="w3-card w3-margin w3-margin-top">
   <img src="/w3images/avatar_g.jpg" style="width:100%">
     <div class="w3-container w3-white">
-      <h4><b>My Name</b></h4>
+      <h4><b>Diptik Mohapatra</b></h4>
       <p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.</p>
     </div>
   </div><hr>
@@ -141,7 +141,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
   <button class="w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom">Previous</button>
   <button class="w3-button w3-black w3-padding-large w3-margin-bottom">Next »</button>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">diptikmohapatra</a></p>
 </footer>
 
 </body>
