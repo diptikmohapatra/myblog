@@ -27,7 +27,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l8 s12">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="/w3images/woods.jpg" alt="Nature" style="width:100%">
+    <img src="https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/154/2018/01/Woods_still.jpg" alt="Nature" style="width:100%">
     <div class="w3-container">
       <h3><b>TITLE HEADING</b></h3>
       <h5>Title description, <span class="w3-opacity">April 7, 2014</span></h5>
@@ -50,7 +50,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-  <img src="/w3images/bridge.jpg" alt="Norway" style="width:100%">
+  <img src="https://www.fjordtravel.no/wp-content/uploads/2013/09/UNESCO-Naeroyfjord-by-Terese-Kvinge.jpg" alt="Norway" style="width:100%">
     <div class="w3-container">
       <h3><b>BLOG ENTRY</b></h3>
       <h5>Title description, <span class="w3-opacity">April 2, 2014</span></h5>
@@ -76,7 +76,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l4">
   <!-- About Card -->
   <div class="w3-card w3-margin w3-margin-top">
-  <img src="/w3images/avatar_g.jpg" style="width:100%">
+  <img src="https://yt3.ggpht.com/a/AGF-l79gbI-7zjhYMrf8N1HRLozJuaktpjzNhbHrcA=s900-c-k-c0xffffffff-no-rj-mo" style="width:100%">
     <div class="w3-container w3-white">
       <h4><b>Diptik Mohapatra</b></h4>
       <p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.</p>
