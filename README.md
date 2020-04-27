@@ -78,7 +78,8 @@ and is wrapped around the whole page content, except for the footer in this exam
   <div class="w3-card w3-margin w3-margin-top">
   <img src="https://yt3.ggpht.com/a/AGF-l79gbI-7zjhYMrf8N1HRLozJuaktpjzNhbHrcA=s900-c-k-c0xffffffff-no-rj-mo" style="width:100%">
     <div class="w3-container w3-white">
-      <h4><b>Diptik Mohapatra</b></h4>
+      <!-- <h4><b>Diptik Mohapatra</b></h4>-->
+      <a href="https://twitter.com/diptikmohapatra" target="_blank"><h4><b>Diptik Mohapatra</b></h4></a>
       <p>Just me, myself and I, exploring the universe of uknownment. I have a heart of love and a interest of lorem ipsum and mauris neque quam blog. I want to share my world with you.</p>
     </div>
   </div><hr>
